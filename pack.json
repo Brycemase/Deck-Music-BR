@@ -1,0 +1,10 @@
+{
+  "name": "Milk Coffee on a Rainy Afternoon",
+  "description": "Music from Blue Reflection: Second Light",
+  "author": "Brycemase",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
